@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253600247845",
+    "project_id": "dashboard-daa5f",
+    "storage_bucket": "dashboard-daa5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253600247845:android:5a247a7a7531fecdaa0fcc",
+        "android_client_info": {
+          "package_name": "com.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXH6m7E0lHastMYRTvmBJvr5GOC2VKkb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
